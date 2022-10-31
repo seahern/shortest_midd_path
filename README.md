@@ -1,6 +1,6 @@
 # shortest_midd_path
 ## Description
-
+Use the Bellman Ford algorithm to determine the shortest path in Middlebury, VT.  
 
 ## Executing the Program
 
